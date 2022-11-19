@@ -4,10 +4,10 @@ Fertilizers Recommendation System For Disease Prediction
 
 Team members are
 
-sneha.s(team lead)
+1.sneha.s(team lead)
 
-mahalakshmi.s
+2.mahalakshmi.s
 
-roopavathi.s
+3.roopavathi.s
 
-artheeshwari.s
+4.artheeshwari.s
