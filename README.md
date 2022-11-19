@@ -2,6 +2,9 @@
 Fertilizers Recommendation System For Disease Prediction
 Team members
 sneha.s(team lead)
+
 mahalakshmi.s
+
 roopavathi.s
+
 artheeshwari.s
